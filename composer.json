@@ -14,7 +14,8 @@
   "require":{
     "php":">=5.3",
     "contao/core": "~3.2",
-    "contao-community-alliance/composer-plugin": "~2.4"
+    "contao-community-alliance/composer-plugin": "~2.4",
+    "oneup/contao-tags": "dev-master"
   },
   "extra":{
     "contao": {
