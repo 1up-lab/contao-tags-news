@@ -15,7 +15,7 @@
     "php":">=5.3",
     "contao/core-bundle": "~4.4",
     "contao-community-alliance/composer-plugin": "~3.0",
-    "oneup/contao-tags": "dev-master"
+    "oneup/contao-tags": "^4.0"
   },
   "extra":{
     "contao": {
